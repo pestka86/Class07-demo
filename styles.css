@@ -1,0 +1,22 @@
+article {
+  background-color: blanchedalmond;
+  margin-bottom: 2rem;
+  padding: 1rem;
+}
+
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin-bottom: 2rem;
+}
+
+tr,
+td,
+th {
+  border: 1px solid black;
+}
+
+td,
+th {
+  padding: 1rem;
+}
